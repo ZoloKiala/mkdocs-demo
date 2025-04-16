@@ -68,6 +68,7 @@ nav:
       - Pre-trained models/Name of project/colorbar.ipynb
       - Pre-trained models/Name of project/Datasets/chapter_03/heatmap.ipynb
   - Python:
+    -Name of project:
       - Python/Name of project/colorbar.ipynb
       - Python/Name of project/heatmap.ipynb
   - YouTube Channel: https://www.youtube.com/@iwmi
