@@ -58,18 +58,18 @@ nav:
   - Home: index.md
   - Notebook:
       - template.ipynb
-  # - Datasets:
-  #   - 'Name of project':
-  #       - 'colorbar': 'Datasets/Name of project/colorbar.ipynb'
-  #       - 'intro': 'Datasets/Name of project/intro.ipynb
-  # - Google earth engine:
-  #   - 'Name of project':
-  #       - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
-  #       - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb
-  # - Pre-trained models:
-  #   - 'Name of project':
-  #       - 'colorbar': 'Pre-trained models/Name of project/colorbar.ipynb'
-  #       - 'heatmap': 'Pre-trained models/Name of project/heatmap.ipynb
+  - Datasets:
+    - 'Name of project':
+        - 'colorbar': 'Datasets/Name of project/colorbar.ipynb'
+        - 'intro': 'Datasets/Name of project/intro.ipynb'
+  - Google earth engine:
+    - 'Name of project':
+        - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb'
+  - Pre-trained models:
+    - 'Name of project':
+        - 'colorbar': 'Pre-trained models/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Pre-trained models/Name of project/heatmap.ipynb'
   - Python:
     - 'Name of project':
         - 'colorbar': 'Python/Name of project/colorbar.ipynb'
