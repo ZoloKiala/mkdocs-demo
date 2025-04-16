@@ -58,11 +58,17 @@ nav:
   - Home: index.md
   - Notebook:
       - template.ipynb
-  - Chapter 1:
+  - Datasets:
       - chapter_01/intro.ipynb
       - chapter_01/basemaps.ipynb
-  - Chapter 2:
+  - Google earth engine:
       - chapter_02/colorbar.ipynb
       - chapter_02/heatmap.ipynb
+  - Pre-trained models:
+      - chapter_03/segmentation.ipynb
+      - chapter_03/classification.ipynb
+  - Python:
+      - chapter_04/Introduction.ipynb
+      - chapter_04/plotting-visualization
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/mkdocs-demo/issues
