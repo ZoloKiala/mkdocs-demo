@@ -73,7 +73,7 @@ nav:
   - Python:
     - 'Name of project':
         - 'colorbar': 'Python/Name of project/colorbar.ipynb'
-        - 'heatmap': 'Python/Name of project/heatmap.ipynb
+        - 'heatmap': 'Python/Name of project/heatmap.ipynb'
 
   - YouTube Channel: https://www.youtube.com/@iwmi
   - Report Issues: https://github.com/iwmihq/iwmi-water-data-science/issues
