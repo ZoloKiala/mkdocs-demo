@@ -74,6 +74,6 @@ nav:
   - Python:
     - 'Name of project': 'Python/Name of project/colorbar.ipynb'
     - 'Name of project':
-        - 'Name of project': 'Python/Name of project/colorbar.ipynb'
+        - 'colorbar': 'Python/Name of project/colorbar.ipynb'
   - YouTube Channel: https://www.youtube.com/@iwmi
   - Report Issues: https://github.com/iwmihq/iwmi-water-data-science/issues
