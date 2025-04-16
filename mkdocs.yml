@@ -59,16 +59,16 @@ nav:
   - Notebook:
       - template.ipynb
   - Datasets:
-      - chapter_01/intro.ipynb
-      - chapter_01/basemaps.ipynb
+      - Datasets/Name of project/intro.ipynb
+      - Datasets/Name of project/basemaps.ipynb
   - Google earth engine:
-      - chapter_02/colorbar.ipynb
-      - chapter_02/heatmap.ipynb
+      - Google earth engine/Name of project/colorbar.ipynb
+      - Google earth engine/Name of project/heatmap.ipynb
   - Pre-trained models:
-      - chapter_03/colorbar.ipynb
-      - chapter_03/heatmap.ipynb
+      - Pre-trained models/Name of project/colorbar.ipynb
+      - Pre-trained models/Name of project/Datasets/chapter_03/heatmap.ipynb
   - Python:
-      - chapter_04/colorbar.ipynb
-      - chapter_04/heatmap.ipynb
+      - Python/Name of project/colorbar.ipynb
+      - Python/Name of project/heatmap.ipynb
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/mkdocs-demo/issues
