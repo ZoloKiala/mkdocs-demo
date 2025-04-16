@@ -1,11 +1,11 @@
-site_name: Mkdocs Template
+site_name: IWMI projects
 site_description: A website template for using mkdocs
 site_author: Qiusheng Wu
 site_url: https://ZoloKiala.github.io/mkdocs-demo
 
 repo_url: https://github.com/ZoloKiala/mkdocs-demo
 
-copyright: "Copyright &copy; 2022 - 2025 Qiusheng Wu"
+copyright: "Copyright &copy; 2022 - 2025 IWMI"
 
 theme:
   palette:
