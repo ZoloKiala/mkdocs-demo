@@ -65,10 +65,10 @@ nav:
       - chapter_02/colorbar.ipynb
       - chapter_02/heatmap.ipynb
   - Pre-trained models:
-      - chapter_03/segmentation.ipynb
-      - chapter_03/classification.ipynb
+      - chapter_03/colorbar.ipynb
+      - chapter_03/heatmap.ipynb
   - Python:
       - chapter_04/Introduction.ipynb
-      - chapter_04/plotting-visualization
+      - chapter_04/plotting-visualization.ipynb
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/mkdocs-demo/issues
