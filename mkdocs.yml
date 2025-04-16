@@ -59,21 +59,21 @@ nav:
   - Notebook:
       - template.ipynb
   - Datasets:
-      - Datasets/Name of project/intro.ipynb
-      - Datasets/Name of project/basemaps.ipynb
+     - 'Name of project':
+        - 'colorbar': 'Datasets/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Datasets/Name of project/heatmap.ipynb
   - Google earth engine:
-      - Google earth engine/Name of project/colorbar.ipynb
-      - Google earth engine/Name of project/heatmap.ipynb
+     - 'Name of project':
+        - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb
   - Pre-trained models:
-      - Pre-trained models/Name of project/colorbar.ipynb
-      - Pre-trained models/Name of project/Datasets/chapter_03/heatmap.ipynb
-  # - Python:
-  #   -Name of project:
-  #     - Python/Name of project/colorbar.ipynb
-  #     - Python/Name of project/heatmap.ipynb
+    - 'Name of project':
+        - 'colorbar': 'Pre-trained models/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Pre-trained models/Name of project/heatmap.ipynb
   - Python:
-    - 'Name of project': 'Python/Name of project/colorbar.ipynb'
     - 'Name of project':
         - 'colorbar': 'Python/Name of project/colorbar.ipynb'
+        - 'heatmap': 'Python/Name of project/heatmap.ipynb
+
   - YouTube Channel: https://www.youtube.com/@iwmi
   - Report Issues: https://github.com/iwmihq/iwmi-water-data-science/issues
