@@ -68,7 +68,7 @@ nav:
       - chapter_03/colorbar.ipynb
       - chapter_03/heatmap.ipynb
   - Python:
-      - chapter_04/Introduction.ipynb
-      - chapter_04/plotting-visualization.ipynb
+      - chapter_04/colorbar.ipynb
+      - chapter_04/heatmap.ipynb
   - YouTube Channel: https://youtube.com/@giswqs
   - Report Issues: https://github.com/giswqs/mkdocs-demo/issues
