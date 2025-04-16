@@ -59,11 +59,11 @@ nav:
   - Notebook:
       - template.ipynb
   - Datasets:
-     - 'Name of project':
+    - 'Name of project':
         - 'colorbar': 'Datasets/Name of project/colorbar.ipynb'
         - 'heatmap': 'Datasets/Name of project/heatmap.ipynb
   - Google earth engine:
-     - 'Name of project':
+    - 'Name of project':
         - 'colorbar': 'Google earth engine/Name of project/colorbar.ipynb'
         - 'heatmap': 'Google earth engine/Name of project/heatmap.ipynb
   - Pre-trained models:
