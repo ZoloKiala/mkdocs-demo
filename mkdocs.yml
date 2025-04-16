@@ -1,9 +1,9 @@
 site_name: IWMI projects
-site_description: A website template for using mkdocs
-site_author: Qiusheng Wu
-site_url: https://ZoloKiala.github.io/mkdocs-demo
+site_description: A IWMI website for using mkdocs
+site_author: IWMI
+site_url: https://github.com/iwmihq/iwmi-water-data-science
 
-repo_url: https://github.com/ZoloKiala/mkdocs-demo
+repo_url: https://github.com/iwmihq/iwmi-water-data-science
 
 copyright: "Copyright &copy; 2022 - 2025 IWMI"
 
